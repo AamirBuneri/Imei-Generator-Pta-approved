@@ -4,13 +4,12 @@ IMEI Generator Tool By Aamir Buneri
 
 
 Overview
-This is a simple IMEI (International Mobile Equipment Identity) generator tool built using Python and PyQt5 library. The purpose of this tool is purely educational and it is intended to demonstrate how IMEI numbers can be generated programmatically. Additionally, it includes pre-built machine learning models for generating IMEI numbers.
+This is a simple IMEI (International Mobile Equipment Identity) generator tool built using Python and PyQt5 library. The purpose of this tool is purely educational and it is intended to demonstrate how IMEI numbers can be generated programmatically. Additionally, it includes pre-built models for generating IMEI numbers of those models.
 
 Features
 Generates valid IMEI numbers according to the GSM standards.
 User-friendly GUI built with PyQt5 for easy interaction.
 Validates generated IMEI numbers to ensure compliance with the specifications.
-Pre-built machine learning models for generating IMEI numbers.
 
 Enter the desired number of IMEI numbers to generate.
 ![Image description](https://github.com/AamirBuneri/Imei-Generator-Pta-approved/blob/main/2.PNG)
